@@ -94,8 +94,9 @@ This creates a **real-time feedback loop for remote navigation**.
 ---
 
 ## Design Decisions
-```
+
 ### Why ESP32-CAM
+```
 - Combines camera + WiFi + processing  
 - Reduces hardware complexity and cost  
 ```
