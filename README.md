@@ -1,5 +1,5 @@
 
-##  WiFi Car — ESP32-CAM Autonomous Rover
+## ESP32-CAM Rover
 
 > Real-time video streaming rover with web-based remote control and embedded networking.
 
@@ -7,7 +7,7 @@
 
 ## Overview
 
-WiFi Car is a compact robotic rover built using the ESP32-CAM, designed for remote navigation in environments that are unsafe or difficult for humans to access.
+Esp32Cam Rover is a compact robotic rover built using the ESP32-CAM, designed for remote navigation in environments that are unsafe or difficult for humans to access.
 ```
 The system integrates:
 - real-time video streaming  
